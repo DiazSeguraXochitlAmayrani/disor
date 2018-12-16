@@ -1,0 +1,18 @@
+﻿Compilación iniciada a las 12/11/2018 03:39:15 p. m..
+     1>Proyecto "C:\Users\May May May\Documents\Visual Studio 2012\Projects\Cesar2\Cesar2\Cesar2.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib CesarForm.cpp
+         CesarForm.cpp
+     1>c:\users\may may may\documents\visual studio 2012\projects\cesar2\cesar2\CesarForm.h(18): warning C4309: 'inicializando' : truncamiento de valor constante
+     1>c:\users\may may may\documents\visual studio 2012\projects\cesar2\cesar2\CesarForm.h(335): warning C4244: 'argumento' : conversión de 'wchar_t' a 'char'; posible pérdida de datos
+     1>c:\users\may may may\documents\visual studio 2012\projects\cesar2\cesar2\CesarForm.h(402): warning C4244: 'argumento' : conversión de 'wchar_t' a 'char'; posible pérdida de datos
+     1>CesarForm.cpp(8): warning C4829: Parámetros posiblemente incorrectos para la función main. Utilice 'int main(Platform::Array<Platform::String^>^ argv)'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\May May May\Documents\Visual Studio 2012\Projects\Cesar2\Debug\Cesar2.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Cesar2.CesarForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\May May May\Documents\Visual Studio 2012\Projects\Cesar2\Debug\Cesar2.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\CesarForm.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Cesar2.vcxproj -> C:\Users\May May May\Documents\Visual Studio 2012\Projects\Cesar2\Debug\Cesar2.exe
+     1>Compilación del proyecto terminada "C:\Users\May May May\Documents\Visual Studio 2012\Projects\Cesar2\Cesar2\Cesar2.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:03.64

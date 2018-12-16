@@ -1,0 +1,14 @@
+C:\Users\May May May\Downloads\disor-master\cifrado\escritorio\codigo\CSharp-WPF\CifradosGenerico\CifradosGenerico\bin\Debug\CifradosGenerico.exe.config
+C:\Users\May May May\Downloads\disor-master\cifrado\escritorio\codigo\CSharp-WPF\CifradosGenerico\CifradosGenerico\bin\Debug\CifradosGenerico.exe
+C:\Users\May May May\Downloads\disor-master\cifrado\escritorio\codigo\CSharp-WPF\CifradosGenerico\CifradosGenerico\bin\Debug\CifradosGenerico.pdb
+C:\Users\May May May\Downloads\disor-master\cifrado\escritorio\codigo\CSharp-WPF\CifradosGenerico\CifradosGenerico\obj\Debug\CifradosGenerico.csprojResolveAssemblyReference.cache
+C:\Users\May May May\Downloads\disor-master\cifrado\escritorio\codigo\CSharp-WPF\CifradosGenerico\CifradosGenerico\obj\Debug\MainWindow.g.cs
+C:\Users\May May May\Downloads\disor-master\cifrado\escritorio\codigo\CSharp-WPF\CifradosGenerico\CifradosGenerico\obj\Debug\App.g.cs
+C:\Users\May May May\Downloads\disor-master\cifrado\escritorio\codigo\CSharp-WPF\CifradosGenerico\CifradosGenerico\obj\Debug\CifradosGenerico_MarkupCompile.cache
+C:\Users\May May May\Downloads\disor-master\cifrado\escritorio\codigo\CSharp-WPF\CifradosGenerico\CifradosGenerico\obj\Debug\CifradosGenerico_MarkupCompile.lref
+C:\Users\May May May\Downloads\disor-master\cifrado\escritorio\codigo\CSharp-WPF\CifradosGenerico\CifradosGenerico\obj\Debug\MainWindow.baml
+C:\Users\May May May\Downloads\disor-master\cifrado\escritorio\codigo\CSharp-WPF\CifradosGenerico\CifradosGenerico\obj\Debug\CifradosGenerico.g.resources
+C:\Users\May May May\Downloads\disor-master\cifrado\escritorio\codigo\CSharp-WPF\CifradosGenerico\CifradosGenerico\obj\Debug\CifradosGenerico.Properties.Resources.resources
+C:\Users\May May May\Downloads\disor-master\cifrado\escritorio\codigo\CSharp-WPF\CifradosGenerico\CifradosGenerico\obj\Debug\CifradosGenerico.csproj.GenerateResource.Cache
+C:\Users\May May May\Downloads\disor-master\cifrado\escritorio\codigo\CSharp-WPF\CifradosGenerico\CifradosGenerico\obj\Debug\CifradosGenerico.exe
+C:\Users\May May May\Downloads\disor-master\cifrado\escritorio\codigo\CSharp-WPF\CifradosGenerico\CifradosGenerico\obj\Debug\CifradosGenerico.pdb
