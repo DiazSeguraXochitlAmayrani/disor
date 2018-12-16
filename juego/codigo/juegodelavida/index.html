@@ -1,0 +1,64 @@
+<html>
+  <head>
+    <title>Juego de la vida en javascript</title>
+ 
+    <style type="text/css">
+body {
+  font-family: Segoe UI, Tahoma, sans-serif;
+}
+input, label {
+  font-size: 18px;
+}
+.numero {
+  width: 50px;
+}
+table {
+  margin: 20px auto 0;
+}
+td {
+  padding: 0px;
+  width: 12px;
+  height: 12px;
+  background-color: #ccc;
+  cursor: pointer;
+  border-radius: 6px;
+}
+td.vivo {
+  background-color: #069;
+}
+#expli {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  z-index: 10;
+  margin: 5px;
+  font-size: 12px;
+}
+#conteo {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  z-index: 10;
+  margin: 5px;
+  font-size: 14px;
+  text-align: right;
+}
+    </style>
+  </head>
+  <body>
+    <label for="ancho">Ancho: <input type="number" class="numero" name="ancho" id="ancho" value="70" /></label>
+    <label for="alto">Alto: <input type="number" class="numero" name="alto" id="alto" value="30" /></label>
+    <input type="button" onclick="generarEntes()" value="Generar comunidad / Vaciar" />
+    <input type="button" onclick="pasoAdelante();" value="turno" />
+    <input type="button" id="automat" onclick="pasoAuto();" value="turnos aleatorios" />
+    <input type="button" id="random" onclick="llenadoRandom();" value="Llenado aleatorio" />
+    <table id="entes"></table>
+    <div id="conteo">
+      <strong id="tiempo">0</strong> ms<br/>
+      <strong id="entidades">0</strong> celulas vivos<br/>
+      <strong id="generaciones">0</strong> generaciones</div>
+	      <script src="juego.js" type="application/javascript"></script>
+
+  
+</body>
+</html>
